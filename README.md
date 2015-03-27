@@ -1,6 +1,8 @@
 fb-places-pro
 =============
 
+Moved to: https://github.com/fbwiki/graph-editor-chrome-extension
+
 Chrome extension to enhance the productivity of the fb places editor https://www.facebook.com/editor
 
 This extension puts the normal fb editor map inside a box to the right of the main editor.
